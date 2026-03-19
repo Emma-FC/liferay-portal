@@ -1,6 +1,0 @@
-{
-	"description": "Partially supported, enabled for existing customers, disabled by default for new customers and users.",
-	"externalReferenceCode": "T_RSP_DEPRECATED",
-	"name": "Deprecated",
-	"viewableBy": "Anyone"
-}
